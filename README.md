@@ -8,6 +8,8 @@ The generated patterns could be used for both small-scale and large-scale floori
 
 <div style="text-align:center"><img src="readme_images/project_description.png" alt="Alt Text" width="600" height="450"></div>
 
+## [Dataset](https://drive.google.com/drive/u/2/folders/1ZQPvnsD83WCaFw7JWHrhILwrFOtJ1Xrh)
+
 ## Project Plan
 
 1. **Dataset Preparation** - Done:
