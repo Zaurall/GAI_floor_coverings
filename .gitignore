@@ -8,3 +8,7 @@ models/
 *.jpg
 *.png
 *.zip
+
+data/test
+data/original
+data/preprocessed
